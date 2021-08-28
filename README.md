@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ELISENCODE
+- 👋 Hi, I’m @elisencode
 - 👀 I’m interested in ... zen healthy minimalist lifestyle: computational thinking, socratic logic, emotional intelligence, antifragile, la gestion optimale du temps, la gestion de patrimoine, le Droit immobilier.
 - 🌱 I’m currently learning ... to code everyday.
 - 💞️ I’m looking to collaborate on ... "je contribue à beaucoup d'autres personnes sur la planète quelque chose qui ait une valeur solide et durable."
