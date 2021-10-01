@@ -1,17 +1,24 @@
 - 👋 Hi, I’m @elisencode
 
-- Workflow : Keep it simple, stupid! Keep it short, silly!
+- Workflow : 
+  > - Keep it simple, stupid! Keep it short, silly! 
+  > - Less is More. Small is beautiful.
+  > - Stability means predictability and peace-of-mind.<br> - Protesilaos Stavrou
 
-| Vanilla Configure  | Less is More |
+| GNU/Linux & Unix Way | GOAL (un projet: c'est une date) |
 | ------------- | ------------- |
-| WDM  | regolith-desktop -goal-> qtile  |
-| Love Text editor  | Vim  |
-| IDE  | -goal-> Emacs  |
-| Teminal  | Tmux  |
-| Shell  | Bash  |
-| Learn how to think  | -focus-on-> Python  |
+| ***Learn how to think***  | -focus-on-> Python -become-> My Own Problem-Solver |
+| [XDG Base Directory](<https://wiki.archlinux.org/title/XDG_Base_Directory>)  | Vanilla Configure |
+| Desktop OS  | -goal-> Debian + bspwm (Binary space partitioning window manager) |
+| TWM (tiling window manager) | Regolith-desktop -goal-> Qtile  |
+|   | -steep learning curves-> Xmonad (written in Haskell) / DWM (written in C)  |
+| Love Text editor  | Vanilla Vim  |
+| IDE  | -learning-on-> Vanilla Emacs (Escape-Meta-Alt-Control-Shift) |
+| Teminal  | Tmux (terminal multiplexer) |
+| Shell  | Bash -goal-> Linux Command Line Power User |
 | Everyday life  | Emacs Org-mode  |
 | Note-taking  | Emacs Org-mode + Org-roam  |
+| Version Control  | Git, Gitlab, Github  |
 | Content Cell  | Content Cell  |
 
 Learn from:
