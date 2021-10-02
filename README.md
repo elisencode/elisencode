@@ -23,7 +23,7 @@
 | Markdown  | Pandoc's Markdown, Github flavor Markdown, R Markdown  |
 | Content Cell  | Content Cell  |
 
-Learn from:
+Learn from:<br>
 [Github Tables](<https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables>)<br>
 [GitHub emoji-cheat-sheet](<https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer>)
 
