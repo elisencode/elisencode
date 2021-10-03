@@ -23,9 +23,12 @@
 | Markdown  | Pandoc's Markdown, Github flavor Markdown, R Markdown  |
 | Content Cell  | Content Cell  |
 
-Learn from:<br>
-[Github Tables](<https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables>)<br>
-[GitHub emoji-cheat-sheet](<https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer>)
+Learn from:
+* [Github Tables](<https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables>)
+* [GitHub emoji-cheat-sheet](<https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer>)
+* [ascii-emoji](<https://github.com/dysfunc/ascii-emoji>)
+* [kaomoji](<https://wprock.fr/t/kaomoji/>)
+* [conventions-nommage-programmation](<https://wprock.fr/blog/conventions-nommage-programmation/>)
 
 - 👀 I’m interested in ... zen healthy minimalist lifestyle : computational thinking, socratic logic, emotional intelligence, antifragile, :fr: la gestion optimale du temps, la gestion de patrimoine, le Droit immobilier.
 - 🌱 I’m currently learning ... to program everyday.
