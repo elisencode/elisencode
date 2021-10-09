@@ -30,7 +30,7 @@ Learn from:
 * [kaomoji](<https://wprock.fr/t/kaomoji/>)
 * [conventions-nommage-programmation](<https://wprock.fr/blog/conventions-nommage-programmation/>)
 
-- 👀 I’m interested in ... zen healthy minimalist lifestyle : computational thinking, socratic logic, emotional intelligence, antifragile, :fr: la gestion optimale du temps, la gestion de patrimoine, le Droit immobilier.
+- 👀 I’m interested in ... zen healthy minimalist lifestyle : computational thinking (socratic logic), emotional intelligence, antifragile, :fr: la gestion optimale du temps, la réflexion juridique (le raisonnement juridique), la gestion de patrimoine, le Droit immobilier (DROIT PRIVÉ : DROIT DES BIENS).
 - 🌱 I’m currently learning ... to program everyday.
 - 💞️ I’m looking to collaborate on ... "je contribue à beaucoup d'autres personnes sur la planète quelque chose qui ait une valeur solide et durable."
 - 📫 How to reach me ... ce trésor "la Providence" ou "la sagesse du créateur" : faire preuve d'une "autodiscipline constante" et assidue.
