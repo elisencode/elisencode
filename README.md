@@ -1,3 +1,6 @@
+## BACKLOG (Brain-Dump) Programmer Profile
+---
+
 - 👋 Hi, I’m @elisencode
 
 - :footprints: Workflow : 
@@ -30,8 +33,8 @@ Learn from:
 * [kaomoji](<https://wprock.fr/t/kaomoji/>)
 * [conventions-nommage-programmation](<https://wprock.fr/blog/conventions-nommage-programmation/>)
 
-- 👀 I’m interested in ... zen healthy minimalist lifestyle : computational thinking (socratic logic), emotional intelligence, antifragile, :fr: la gestion optimale du temps, la réflexion juridique (le raisonnement juridique), la gestion de patrimoine, le Droit immobilier (DROIT PRIVÉ : DROIT DES BIENS).
-- 🌱 I’m currently learning ... to program everyday.
+- 👀 I’m interested in ... zen healthy minimalist lifestyle : computational thinking (socratic logic), accounting, finance, networking, emotional intelligence, antifragile, nonviolent compassionate communication, :fr: la gestion optimale du temps, la réflexion juridique (le raisonnement juridique) & la méthodologie, la gestion de patrimoine, le Droit immobilier (DROIT PRIVÉ : DROIT DES BIENS), le Droit de la propriété intellectuelle.
+- 🌱 I’m currently learning ... delibrate practice: programming everyday.
 - 💞️ I’m looking to collaborate on ... "je contribue à beaucoup d'autres personnes sur la planète quelque chose qui ait une valeur solide et durable."
 - 📫 How to reach me ... ce trésor "la Providence" ou "la sagesse du créateur" : faire preuve d'une "autodiscipline constante" et assidue.
 
