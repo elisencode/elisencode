@@ -11,8 +11,8 @@ I’m also thankful for the Internet, which gives me the freedom to learn and gr
 Happy coding!  
 
 With all my appreciation,  
-Elise
-20241009
+Elise  
+20241009  
 
 ---
 
