@@ -2,9 +2,9 @@
 
 Dear Programming,  
 
-I want to express my heartfelt gratitude: "Thank you for saving my life!" When life becomes challenging and tries to pull me down, you are the rope I can hold onto. Pushing myself to tackle programming problems helps me think logically and creatively, bringing light to my days.  
+I want to express my heartfelt gratitude: "Thank you for being the healing presence in my life!" When doors close, and my world seems to be collapsing, you are the lifeline I can grasp and climb. Tackling programming challenges pushes me to think logically and creatively, which brings light into my days.  
 
-I believe that if I persist and make programming a daily habit—just like brushing my teeth—I can unlock many possibilities for my future.  
+I believe that if I persist and make programming a daily habit —just like brushing my teeth— I can unlock many possibilities for tomorrow.  
 
 I’m also thankful for the Internet, which gives me the freedom to learn and grow through the wisdom shared by others.  
 
