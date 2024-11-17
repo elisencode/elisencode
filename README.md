@@ -12,8 +12,6 @@ Happy coding!
 
 With all my appreciation,  
 Elise  
-20241009FACDROIT34  
-20240530IUT34  
 
 ---
 
