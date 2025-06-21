@@ -53,10 +53,19 @@ Learn from:
 * [kaomoji](<https://wprock.fr/t/kaomoji/>)
 * [conventions-nommage-programmation](<https://wprock.fr/blog/conventions-nommage-programmation/>)
 
-- 👀 I’m interested in ... zen healthy minimalist lifestyle : computational thinking (🤔 socratic logic), accounting, finance, networking, emotional intelligence, antifragile, nonviolent compassionate communication, :fr: la gestion optimale du temps, la réflexion juridique (le raisonnement juridique) & la méthodologie, la gestion de patrimoine, le Droit immobilier (DROIT PRIVÉ : DROIT DES BIENS), le Droit de la propriété intellectuelle.
-- 🌱 I’m currently learning ... delibrate practice: programming everyday.
-- 💞️ I’m looking to collaborate on ... "je contribue à beaucoup d'autres personnes sur la planète quelque chose qui ait une valeur solide et durable."
-- 📫 How to reach me ... ce trésor "la Providence" ou "la sagesse du créateur" : faire preuve d'une "autodiscipline constante" et assidue.
+## 👤 About Me (EN / FR)
+
+| 🇬🇧 **English** | 🇫🇷 **Français** |
+|----------------|-----------------|
+| 👀 **I’m interested in** a zen, healthy, minimalist lifestyle; computational thinking (🤔 Socratic logic), accounting, finance, networking, emotional intelligence, antifragility, and nonviolent compassionate communication. | 👀 **Je m'intéresse à** un mode de vie zen, sain et minimaliste ; la pensée computationnelle (🤔 logique socratique), la comptabilité, la finance, le réseautage, l’intelligence émotionnelle, l’antifragilité, et la communication non violente et bienveillante. |
+| 🇫🇷 I’m also focused on: optimal time management, legal reasoning and methodology, wealth management, real estate law (private law: property law), and intellectual property law. | 🇫🇷 Je m'intéresse également à : la gestion optimale du temps, le raisonnement juridique et la méthodologie, la gestion de patrimoine, le droit immobilier (droit privé : droit des biens), et le droit de la propriété intellectuelle. |
+| 🌱 **I’m currently learning** through deliberate practice — programming every day. | 🌱 **J’apprends actuellement** par la pratique délibérée — en programmant chaque jour. |
+| 💞️ **I’m looking to collaborate on** meaningful and lasting contributions that benefit people across the planet. | 💞️ **Je souhaite collaborer à** des projets ayant une valeur solide et durable pour de nombreuses personnes à travers le monde. |
+| 📫 **How to reach me**: through the treasure of "Providence" or "the Creator's wisdom" — by showing consistent and diligent self-discipline. | 📫 **Comment me joindre** : par ce trésor qu'est « la Providence » ou « la sagesse du Créateur » — en faisant preuve d'une autodiscipline constante et assidue. |
+
+---
+
+🛠️ *Built with love, reflection, and purposeful intention.*
 
 <!---
 ELISENCODE/ELISENCODE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
