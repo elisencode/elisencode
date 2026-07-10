@@ -9,9 +9,10 @@ I believe that if I persist and make programming a daily habit, just like brushi
 I’m also thankful for the Internet, which gives me the freedom to learn and grow through the wisdom shared by others.  
 
 Happy coding!  
+Make the world a better place to live in.  
 
 With all my appreciation,  
-Elise  
+  
 
 ---
 
